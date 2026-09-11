@@ -23,3 +23,4 @@ def chatbot():
 chatbot()
 
 #end of code
+#python code for a simple chatbot that responds to user input with predefined answers. The chatbot continues to interact with the user until the user types "bye", at which point it exits the program.
