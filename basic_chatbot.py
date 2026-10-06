@@ -8,9 +8,9 @@ def chatbot():
         elif user =="how are you":
                 print("bot: I am fine, thank you!")
         elif user =="what is your name":    
-                print("bot: I am Simple Chatbot.") 
+                print("bot: I am Simple Bittu(a simple chatbot).") 
         elif user =="who creat you":
-                print("bot: I was created by a developer.")
+                print("bot: I was created by a Rounak Mhapa (a CSE student).")
         elif user =="what can you do":
                 print("bot: I can chat with you and answer simple questions.")
         elif user =="thank you":
@@ -21,6 +21,3 @@ def chatbot():
         else:
                 print("bot: I'm sorry, I don't understand that.")
 chatbot()
-
-#end of code
-#python code for a simple chatbot that responds to user input with predefined answers. The chatbot continues to interact with the user until the user types "bye", at which point it exits the program.
